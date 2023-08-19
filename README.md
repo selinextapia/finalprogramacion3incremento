@@ -11,3 +11,8 @@ incremento
 
 <img width="1095" alt="image" src="https://github.com/selinextapia/finalprogramacion3incremento/assets/30672826/e31eafe2-2abe-4487-a7b2-e195497e9e3d">
 
+<img width="1046" alt="image" src="https://github.com/selinextapia/finalprogramacion3incremento/assets/30672826/d3dad93f-388a-4fc0-9788-6cd665bf4986">
+
+
+
+<img width="1022" alt="image" src="https://github.com/selinextapia/finalprogramacion3incremento/assets/30672826/a354017c-8ffb-4fe0-962c-3a5a963c937f">
